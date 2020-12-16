@@ -1,4 +1,4 @@
-# -
+# -久坐提醒装置实现代码
 久坐提醒装置实现代码
 static const unsigned char PROGMEM str_1[] =  
 {   
